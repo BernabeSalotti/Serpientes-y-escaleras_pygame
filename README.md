@@ -1,1 +1,0 @@
-# Serpientes-y-escaleras_pygame
